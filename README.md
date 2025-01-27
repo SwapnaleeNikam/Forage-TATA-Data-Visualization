@@ -32,4 +32,4 @@ Develop a script and record a video presenting your findings to the CEO and CMO 
 
 
 Dashboard:
-![TATA Visualization Dasboard Snapshot]()
+![TATA Visualization Dasboard Snapshot](https://github.com/SwapnaleeNikam/Forage-TATA-Data-Visualization/blob/main/TATA-Data-Visualization-Dashboard-Screenshot.png)
